@@ -1,3 +1,6 @@
+I did the two extra credit of add a spinner or some other control to choose the tip amount: 10%, 15%, 18% or 20%, and calculate accordingly (1 pt)
+make sure that only two decimal points ever appear, and that the math is always correct (1 pt)
+
 As a user, when I launch the application, I should see a text edit (labeled "Amount") allowing me to enter the service charge, and a pushbutton labeled "Tip". The "Tip" pushbutton should be disabled.
 
 As a user, when I enter data into the service charge textedit, only numbers should be allowed.
